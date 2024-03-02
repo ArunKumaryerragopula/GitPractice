@@ -23,6 +23,7 @@ public class StudentEnq {
 	@CreationTimestamp
 	private LocalDate createdDate;
 	private Integer cid;
+	private Integer eng;
 
 	public Integer getEnqId() {
 		return enqId;
